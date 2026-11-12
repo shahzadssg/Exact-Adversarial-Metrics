@@ -1,0 +1,2207 @@
+[
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 0,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.010545492172241211
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 0,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.02691340446472168
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 0,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.04516410827636719
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 0,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.006968498229980469
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 0,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.006390810012817383
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 0,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.015099525451660156
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 0,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.22006678581237793
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 0,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.1577315330505371
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 1,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0029108524322509766
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 1,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.009997367858886719
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 1,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.006655454635620117
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 1,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.005282402038574219
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 1,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0040018558502197266
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 1,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.002134561538696289
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 1,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.04861807823181152
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 1,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.16458439826965332
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 2,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.007086753845214844
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 2,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.015097856521606445
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 2,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.005997896194458008
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 2,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0050008296966552734
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 2,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.004614830017089844
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 2,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.002012491226196289
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 2,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.04862833023071289
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 2,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.14564013481140137
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 3,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.007184028625488281
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 3,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.017653226852416992
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 3,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.002994537353515625
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 3,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.004085540771484375
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 3,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0050127506256103516
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 3,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.003010272979736328
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 3,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.04819917678833008
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 3,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.18221497535705566
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 4,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0030889511108398438
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 4,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.009343385696411133
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 4,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0020973682403564453
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 4,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.003000974655151367
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 4,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.002003908157348633
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 4,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.000989675521850586
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 4,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.04079842567443848
+ },
+ {
+  "m": 300,
+  "k": 2,
+  "seed": 4,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.16080451011657715
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 0,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0039865970611572266
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 0,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.008654117584228516
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 0,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.003010272979736328
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 0,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.001986265182495117
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 0,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.002003192901611328
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 0,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.002002716064453125
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 0,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.039116859436035156
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 0,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.14558815956115723
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 1,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.008122682571411133
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 1,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.015517950057983398
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 1,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0020165443420410156
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 1,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.002948760986328125
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 1,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.002034425735473633
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 1,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.001989126205444336
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 1,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.041544198989868164
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 1,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.15026068687438965
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 2,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0059986114501953125
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 2,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.012988805770874023
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 2,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.003013134002685547
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 2,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0029959678649902344
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 2,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0019931793212890625
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 2,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.001993894577026367
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 2,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.03920125961303711
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 2,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.14075112342834473
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 3,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.005126953125
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 3,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.006966829299926758
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 3,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0030236244201660156
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 3,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0019757747650146484
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 3,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.002992391586303711
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 3,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0010104179382324219
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 3,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.04207491874694824
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 3,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.18684101104736328
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 4,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.003973484039306641
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 4,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.017429351806640625
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 4,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.004027128219604492
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 4,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.004078388214111328
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 4,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0049953460693359375
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 4,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0029897689819335938
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 4,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.046480417251586914
+ },
+ {
+  "m": 300,
+  "k": 3,
+  "seed": 4,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.15363764762878418
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 0,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.00860452651977539
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 0,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.02802753448486328
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 0,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.003985404968261719
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 0,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0039033889770507812
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 0,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0020973682403564453
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 0,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0010294914245605469
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 0,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.04578685760498047
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 0,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.17383193969726562
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 1,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.006719350814819336
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 1,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.01295781135559082
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 1,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0030090808868408203
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 1,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0020062923431396484
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 1,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0029883384704589844
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 1,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0010111331939697266
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 1,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.04563093185424805
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 1,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.15912842750549316
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 2,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.004454374313354492
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 2,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.013335943222045898
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 2,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0029850006103515625
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 2,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0029969215393066406
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 2,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.002988576889038086
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 2,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.001010894775390625
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 2,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.045529842376708984
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 2,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.14735913276672363
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 3,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.006194591522216797
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 3,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.01807999610900879
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 3,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0060863494873046875
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 3,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.006046772003173828
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 3,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.005006313323974609
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 3,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0027322769165039062
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 3,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.05055594444274902
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 3,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.15293312072753906
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 4,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.007104158401489258
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 4,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.02248692512512207
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 4,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.004000186920166016
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 4,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0039014816284179688
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 4,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0019998550415039062
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 4,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0009992122650146484
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 4,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.04292798042297363
+ },
+ {
+  "m": 300,
+  "k": 5,
+  "seed": 4,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.17124390602111816
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 0,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.17892932891845703
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 0,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.5899901390075684
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 0,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.15950846672058105
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 0,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.21875882148742676
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 0,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.22736883163452148
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 0,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0755615234375
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 0,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.19388318061828613
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 0,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 46.199474811553955
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 1,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2187497615814209
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 1,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.7209393978118896
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 1,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.16223716735839844
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 1,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.20793557167053223
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 1,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.19524788856506348
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 1,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0769047737121582
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 1,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.24742889404296875
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 1,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 40.565040826797485
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 2,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.27064013481140137
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 2,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.7870907783508301
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 2,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2206425666809082
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 2,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.25556445121765137
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 2,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.17983245849609375
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 2,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.0771489143371582
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 2,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.19976449012756348
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 2,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 40.63979434967041
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 3,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.1954500675201416
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 3,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.7278397083282471
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 3,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.20064973831176758
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 3,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.21996760368347168
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 3,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2599806785583496
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 3,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.07604670524597168
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 3,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.16084551811218262
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 3,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 52.220247745513916
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 4,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.24518585205078125
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 4,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.7231264114379883
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 4,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.1874854564666748
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 4,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.23769187927246094
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 4,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2646477222442627
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 4,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.08948826789855957
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 4,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.18445706367492676
+ },
+ {
+  "m": 3000,
+  "k": 2,
+  "seed": 4,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 41.26161479949951
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 0,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.21088552474975586
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 0,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.7026770114898682
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 0,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.20300793647766113
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 0,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.19730162620544434
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 0,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.19937634468078613
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 0,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.07687497138977051
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 0,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.21689510345458984
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 0,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 41.4450945854187
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 1,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2334575653076172
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 1,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.7493619918823242
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 1,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.17130780220031738
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 1,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.1743180751800537
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 1,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.20002031326293945
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 1,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.10045886039733887
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 1,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2788240909576416
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 1,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 41.165454626083374
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 2,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.19382596015930176
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 2,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.7233328819274902
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 2,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.18031907081604004
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 2,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.21315574645996094
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 2,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.20915675163269043
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 2,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.09366631507873535
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 2,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2162308692932129
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 2,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 40.6435329914093
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 3,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2430095672607422
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 3,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.6662731170654297
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 3,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.16444635391235352
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 3,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.169633150100708
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 3,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2371518611907959
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 3,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.07646560668945312
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 3,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.1573631763458252
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 3,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 40.32792901992798
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 4,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.16605424880981445
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 4,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.453110933303833
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 4,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.130995512008667
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 4,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.16300439834594727
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 4,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.1617119312286377
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 4,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.07524394989013672
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 4,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.21002459526062012
+ },
+ {
+  "m": 3000,
+  "k": 3,
+  "seed": 4,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 24.214119911193848
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 0,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2249763011932373
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 0,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.6821210384368896
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 0,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.19559025764465332
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 0,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.16169953346252441
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 0,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.22664356231689453
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 0,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.09736013412475586
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 0,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2140359878540039
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 0,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 41.22503852844238
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 1,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.1831505298614502
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 1,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.7500050067901611
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 1,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.17596888542175293
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 1,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.1728668212890625
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 1,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.15693020820617676
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 1,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.07159280776977539
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 1,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.17589426040649414
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 1,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 41.05244588851929
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 2,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.21422481536865234
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 2,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.6764247417449951
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 2,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2102046012878418
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 2,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.19834661483764648
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 2,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2028658390045166
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 2,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.07697868347167969
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 2,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.17219829559326172
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 2,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 40.22062969207764
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 3,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.22257184982299805
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 3,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.7800617218017578
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 3,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.18149447441101074
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 3,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.19623661041259766
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 3,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.18619012832641602
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 3,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.07013273239135742
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 3,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.26308655738830566
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 3,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 40.41394901275635
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 4,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.1914823055267334
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 4,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.6773066520690918
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 4,
+  "alg": "single linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.14710021018981934
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 4,
+  "alg": "complete linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.19266533851623535
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 4,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2376706600189209
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 4,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.07872748374938965
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 4,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.2231464385986328
+ },
+ {
+  "m": 3000,
+  "k": 5,
+  "seed": 4,
+  "alg": "OPTICS",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 39.95238780975342
+ },
+ {
+  "m": 10000,
+  "k": 3,
+  "seed": 0,
+  "alg": "DBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 2.5989716053009033
+ },
+ {
+  "m": 10000,
+  "k": 3,
+  "seed": 0,
+  "alg": "HDBSCAN",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 9.216949462890625
+ },
+ {
+  "m": 10000,
+  "k": 3,
+  "seed": 0,
+  "alg": "average linkage",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 2.2444393634796143
+ },
+ {
+  "m": 10000,
+  "k": 3,
+  "seed": 0,
+  "alg": "k-medoids (FasterPAM)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 0.8722076416015625
+ },
+ {
+  "m": 10000,
+  "k": 3,
+  "seed": 0,
+  "alg": "spectral (kNN graph)",
+  "ari": 1.0,
+  "noise": 0,
+  "seconds": 1.8188116550445557
+ }
+]

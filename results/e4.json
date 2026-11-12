@@ -1,0 +1,7063 @@
+{
+ "rows": [
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 4.1785464509253297e-16,
+   "embed": 6.577076942211825e-15,
+   "distort": 0.8705380374887268
+  },
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 4.451686465553948e-16,
+   "embed": 6.648353086435279e-15,
+   "distort": 0.4045680608364305
+  },
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 7.355640677653392e-16,
+   "embed": 0.4680664236824998,
+   "distort": 0.5493034003488205
+  },
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 2.956429648568488e-16,
+   "embed": 0.5244709740938881,
+   "distort": 0.5467791315721192
+  },
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5344228332986022,
+   "embed": 0.24717919737881489,
+   "distort": 13.311926757654609
+  },
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 6.595409870047109e-16,
+   "embed": 6.849770215622362e-15,
+   "distort": 1.0489178026132284
+  },
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 2.28340156468611e-16,
+   "embed": 6.263656462107571e-15,
+   "distort": 0.5930407996165528
+  },
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 4.4034001835887987e-16,
+   "embed": 6.095487589734169e-15,
+   "distort": 1.0524967903259923
+  },
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.8,
+   "axiom": 4.1390822595636845e-16,
+   "embed": 6.2800206673409334e-15,
+   "distort": 2.29241895235837
+  },
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 2.1724357014935097e-16,
+   "embed": 6.0952050163888945e-15,
+   "distort": 1.2062579542135972
+  },
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 4.242588436608826e-16,
+   "embed": 6.26643093259138e-15,
+   "distort": 1.6807364723778293
+  },
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 3.603043603616656e-16,
+   "embed": 6.13638710165272e-15,
+   "distort": 3.9697841953729798
+  },
+  {
+   "dataset": "Adult",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.1021856502474845e-15,
+   "embed": 0.1165460003531699,
+   "distort": 6.20986820558641
+  },
+  {
+   "dataset": "Adult",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 4.838386240749644e-16,
+   "embed": 6.521566987209503e-15,
+   "distort": 0.9667384596188873
+  },
+  {
+   "dataset": "Adult",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.5521465843270526e-16,
+   "embed": 6.26844719580538e-15,
+   "distort": 0.39768674740149046
+  },
+  {
+   "dataset": "Adult",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 8.1988307904654e-16,
+   "embed": 0.47050246790149236,
+   "distort": 0.5493034003486488
+  },
+  {
+   "dataset": "Adult",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 2.9373550134733004e-16,
+   "embed": 0.5177385192001634,
+   "distort": 0.5467791315724514
+  },
+  {
+   "dataset": "Adult",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5373018486435984,
+   "embed": 0.24650252952041696,
+   "distort": 12.258867608095127
+  },
+  {
+   "dataset": "Adult",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 2.7734593547361927e-16,
+   "embed": 6.969411313683512e-15,
+   "distort": 0.8964278904381182
+  },
+  {
+   "dataset": "Adult",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.0906136175911816e-15,
+   "embed": 0.11666961286901176,
+   "distort": 6.252349336341726
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.6282667701781393e-16,
+   "embed": 6.922044961647289e-15,
+   "distort": 1.2188142086745584
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.5491954674300478e-16,
+   "embed": 6.458400141180231e-15,
+   "distort": 0.33430603929269226
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.975513847176144e-16,
+   "embed": 0.4767544395065671,
+   "distort": 0.5492929714554904
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.0053347618761396e-16,
+   "embed": 0.5272715996025562,
+   "distort": 0.5425140350681582
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5334727139912888,
+   "embed": 0.24756048320257623,
+   "distort": 11.617332337291847
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.140046604801265e-16,
+   "embed": 6.997326347122531e-15,
+   "distort": 2.3894756584545247
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 4.668369433027663e-16,
+   "embed": 6.445499788709395e-15,
+   "distort": 0.7354436491065335
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 4.499416819149629e-16,
+   "embed": 6.2667218709103785e-15,
+   "distort": 1.2548508707575559
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 3.7580871277327924e-16,
+   "embed": 5.919524326397613e-15,
+   "distort": 3.288848596412231
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 4.058629325030412e-16,
+   "embed": 6.445940162045995e-15,
+   "distort": 2.8841884963704527
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 4.058931536486407e-16,
+   "embed": 6.2677362506615145e-15,
+   "distort": 2.8841884963704523
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 6.754894471383958e-16,
+   "embed": 6.284977811165432e-15,
+   "distort": 4.3568630902259375
+  },
+  {
+   "dataset": "Adult",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 2.0212374263229207e-15,
+   "embed": 0.11656915774368037,
+   "distort": 6.2517745806514995
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.6694053154481197e-16,
+   "embed": 6.950714388781986e-15,
+   "distort": 1.4376850181089744
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.5484827699226166e-16,
+   "embed": 6.648353086736763e-15,
+   "distort": 0.4729604484986743
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 7.542048724489845e-16,
+   "embed": 0.4696408342986893,
+   "distort": 0.5493034003488144
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.0440230325289625e-16,
+   "embed": 0.5226012441713007,
+   "distort": 0.546779131572224
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5430706177876653,
+   "embed": 0.24618690035745674,
+   "distort": 11.370580364728935
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 4.864235384392377e-16,
+   "embed": 7.547047402762487e-15,
+   "distort": 5.064150377233971
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 2.3811219748839727e-16,
+   "embed": 6.562520342591307e-15,
+   "distort": 0.4532235825216599
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.9073692578426607e-16,
+   "embed": 6.563176730477183e-15,
+   "distort": 0.9947585322728407
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 3.9344326241045955e-16,
+   "embed": 6.2278741015051356e-15,
+   "distort": 2.9350401578212213
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 3.9266595689825115e-16,
+   "embed": 6.210744530649219e-15,
+   "distort": 2.7170056200317845
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 5.982450452733344e-16,
+   "embed": 6.268751854356136e-15,
+   "distort": 4.9440826970236715
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 6.036557212098079e-16,
+   "embed": 6.368844471373485e-15,
+   "distort": 5.326012688524155
+  },
+  {
+   "dataset": "Adult",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.0633961359681157e-15,
+   "embed": 0.1174403345270133,
+   "distort": 6.256269116933998
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 2.5495697128249413e-16,
+   "embed": 6.617553061280319e-15,
+   "distort": 0.604064664591593
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.585107517120168e-16,
+   "embed": 6.648353086591249e-15,
+   "distort": 0.3908143251337708
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 8.444291745232278e-16,
+   "embed": 0.4729443560062039,
+   "distort": 0.5493034003488174
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.0485604599480646e-16,
+   "embed": 0.5248702476849151,
+   "distort": 0.546779131572119
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5330865512752755,
+   "embed": 0.2475391815510623,
+   "distort": 13.982980983023403
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.615381231098051e-16,
+   "embed": 7.220765999458079e-15,
+   "distort": 2.672523849602622
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 2.4145324787493515e-16,
+   "embed": 6.2495777192571436e-15,
+   "distort": 0.34289660931773736
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.384416251662654e-16,
+   "embed": 6.2500822436875165e-15,
+   "distort": 0.5199223714426245
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 4.0833323523702325e-16,
+   "embed": 6.623545999513841e-15,
+   "distort": 2.851702746943005
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 2.3409342916664734e-16,
+   "embed": 6.6068607519122494e-15,
+   "distort": 0.800140922768868
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 4.3356763053974045e-16,
+   "embed": 6.250537632542513e-15,
+   "distort": 1.748617530445484
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.7,
+   "axiom": 4.087435038111899e-16,
+   "embed": 6.274881666269268e-15,
+   "distort": 3.935480622559372
+  },
+  {
+   "dataset": "Adult",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 2.2636381235536884e-15,
+   "embed": 0.11676249447147295,
+   "distort": 6.22898298914367
+  },
+  {
+   "dataset": "Adult",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 5.477756511326383e-16,
+   "embed": 6.8798029052487166e-15,
+   "distort": 1.6664653410766967
+  },
+  {
+   "dataset": "Adult",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 4.026033937779964e-16,
+   "embed": 6.648353086435759e-15,
+   "distort": 0.35902070239358774
+  },
+  {
+   "dataset": "Adult",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 7.455521148427514e-16,
+   "embed": 0.4762952677375985,
+   "distort": 0.5493034003486451
+  },
+  {
+   "dataset": "Adult",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 2.9736880644690965e-16,
+   "embed": 0.5260626983928003,
+   "distort": 0.5467791315721585
+  },
+  {
+   "dataset": "Adult",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.524809972126116,
+   "embed": 0.24543366738850744,
+   "distort": 12.725948118202577
+  },
+  {
+   "dataset": "Adult",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 4.026610138496678e-16,
+   "embed": 7.144476069900337e-15,
+   "distort": 1.982005832096134
+  },
+  {
+   "dataset": "Adult",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.0283646414763604e-15,
+   "embed": 0.11651513814105428,
+   "distort": 6.193586736516448
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 2.8740785883541476e-16,
+   "embed": 6.542221594298011e-15,
+   "distort": 0.31979993233098536
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.59790649772364e-16,
+   "embed": 6.648353086551655e-15,
+   "distort": 0.38418952449127
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 8.407962680157105e-16,
+   "embed": 0.47052339146751027,
+   "distort": 0.5493034003488172
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.0387688055076e-16,
+   "embed": 0.52381395874463,
+   "distort": 0.5467791315721993
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.528164502903141,
+   "embed": 0.24710612288253325,
+   "distort": 14.94646006046662
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 4.726428677701068e-16,
+   "embed": 6.950511314674679e-15,
+   "distort": 2.4576012389468875
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 2.422196390551079e-16,
+   "embed": 6.1947192515620455e-15,
+   "distort": 0.2726709643851923
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.2508181459331737e-16,
+   "embed": 6.1945389121757715e-15,
+   "distort": 1.096665645458843
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.1,
+   "axiom": 7.051511418105455e-16,
+   "embed": 6.379079125895645e-15,
+   "distort": 3.6895980277410967
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 7.046979594274271e-16,
+   "embed": 6.373630885254439e-15,
+   "distort": 3.321727555108646
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 7.047202872303897e-16,
+   "embed": 6.196447975614714e-15,
+   "distort": 3.321727555108646
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 1.4991765747458738e-15,
+   "embed": 6.275980553366517e-15,
+   "distort": 5.607467068894469
+  },
+  {
+   "dataset": "Adult",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 2.193726725190612e-15,
+   "embed": 0.11666961286901213,
+   "distort": 6.188137796614406
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.884420403852449e-16,
+   "embed": 6.371099829043247e-15,
+   "distort": 0.5459548089431107
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.6537281296739017e-16,
+   "embed": 6.6483530865391854e-15,
+   "distort": 0.39560878262703686
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 8.499300130946759e-16,
+   "embed": 0.4765825832626512,
+   "distort": 0.5493034003485664
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.086938620960358e-16,
+   "embed": 0.5083820499309745,
+   "distort": 0.546779131572224
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5394310884141448,
+   "embed": 0.2466567321234525,
+   "distort": 11.924754829173805
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.898509068604491e-16,
+   "embed": 7.241664496309178e-15,
+   "distort": 2.0319695456820592
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 2.3872159293940945e-16,
+   "embed": 6.313713640960567e-15,
+   "distort": 0.6130231263562627
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 0.6666666666666666,
+   "axiom": 4.420788861982188e-16,
+   "embed": 6.314959222121029e-15,
+   "distort": 1.8142301497500877
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.3,
+   "axiom": 6.347497070812581e-16,
+   "embed": 6.151354968582834e-15,
+   "distort": 4.0502151843100425
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 4.2319210253540915e-16,
+   "embed": 6.316993676309005e-15,
+   "distort": 2.7863335211740474
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 3.598190873366523e-16,
+   "embed": 6.155391292966205e-15,
+   "distort": 4.1856363467084305
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.3,
+   "axiom": 6.35010456804765e-16,
+   "embed": 6.352406616281084e-15,
+   "distort": 4.640860648585485
+  },
+  {
+   "dataset": "Adult",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.0851315255393502e-15,
+   "embed": 0.11694093154082966,
+   "distort": 6.218543960643182
+  },
+  {
+   "dataset": "Adult",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.1871104141632577e-16,
+   "embed": 6.742512822294063e-15,
+   "distort": 1.0183116685713733
+  },
+  {
+   "dataset": "Adult",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 2.6283473071372004e-16,
+   "embed": 6.268447195817701e-15,
+   "distort": 0.4397437398546697
+  },
+  {
+   "dataset": "Adult",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 7.25215883860591e-16,
+   "embed": 0.46583037447938347,
+   "distort": 0.5493034003486492
+  },
+  {
+   "dataset": "Adult",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 2.882088088498531e-16,
+   "embed": 0.5080226758547653,
+   "distort": 0.5467791315721188
+  },
+  {
+   "dataset": "Adult",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5207743583829698,
+   "embed": 0.2434677970089212,
+   "distort": 13.455365035921348
+  },
+  {
+   "dataset": "Adult",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 4.55517069325792e-16,
+   "embed": 7.363420800705615e-15,
+   "distort": 1.61418309762006
+  },
+  {
+   "dataset": "Adult",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 2.2102470416810493e-15,
+   "embed": 0.11654600035317,
+   "distort": 6.234139793086933
+  },
+  {
+   "dataset": "Adult",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 6.767082674906103e-16,
+   "embed": 7.060850097406856e-15,
+   "distort": 1.2772869718690434
+  },
+  {
+   "dataset": "Adult",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.5939333681298616e-16,
+   "embed": 6.458400141229699e-15,
+   "distort": 0.33349138582864035
+  },
+  {
+   "dataset": "Adult",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 8.481709005326907e-16,
+   "embed": 0.47790711756008114,
+   "distort": 0.5493034003486479
+  },
+  {
+   "dataset": "Adult",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.0514575856486087e-16,
+   "embed": 0.5370207083715318,
+   "distort": 0.5467791315724507
+  },
+  {
+   "dataset": "Adult",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5396710533704964,
+   "embed": 0.24896628136612137,
+   "distort": 13.3581241675851
+  },
+  {
+   "dataset": "Adult",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.984460460994716e-16,
+   "embed": 7.472019949289476e-15,
+   "distort": 2.521841547728258
+  },
+  {
+   "dataset": "Adult",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 2.162102569397691e-15,
+   "embed": 0.11659747372140308,
+   "distort": 6.179798067098369
+  },
+  {
+   "dataset": "Adult",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.2889935563485706e-16,
+   "embed": 6.459276382023112e-15,
+   "distort": 0.34320172605368604
+  },
+  {
+   "dataset": "Adult",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.5989312467886675e-16,
+   "embed": 6.268447195960657e-15,
+   "distort": 0.38221270310272465
+  },
+  {
+   "dataset": "Adult",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 7.225312538272573e-16,
+   "embed": 0.4712780339068855,
+   "distort": 0.5493034003486492
+  },
+  {
+   "dataset": "Adult",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.087526521438728e-16,
+   "embed": 0.5242914063448924,
+   "distort": 0.5467791315721192
+  },
+  {
+   "dataset": "Adult",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5277630265018453,
+   "embed": 0.24553756610332966,
+   "distort": 11.387908032177668
+  },
+  {
+   "dataset": "Adult",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 7.726603747424691e-16,
+   "embed": 7.622102796419832e-15,
+   "distort": 1.764674527699355
+  },
+  {
+   "dataset": "Adult",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.2156904572981928e-15,
+   "embed": 0.11659747372140311,
+   "distort": 6.203198274545524
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.7386011287725336e-16,
+   "embed": 6.43129399896287e-15,
+   "distort": 1.1891858373501762
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.587171151125905e-16,
+   "embed": 6.458400141070431e-15,
+   "distort": 0.38249944869912306
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 7.421694028064035e-16,
+   "embed": 0.4681417283545871,
+   "distort": 0.5493034003485926
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 2.966166934003522e-16,
+   "embed": 0.5297752506395987,
+   "distort": 0.5467791315724498
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5343905183512097,
+   "embed": 0.24721010438430308,
+   "distort": 12.977073892678975
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.3655052862749027e-16,
+   "embed": 6.618259712281381e-15,
+   "distort": 0.9626249310485363
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 2.3422833793141054e-16,
+   "embed": 6.25556121516357e-15,
+   "distort": 0.46225139739087584
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 4.576030507751776e-16,
+   "embed": 6.086399361691606e-15,
+   "distort": 0.7382674835946951
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 4.0321147014276813e-16,
+   "embed": 6.094961724007922e-15,
+   "distort": 2.7061239795523178
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 4.1214231966590055e-16,
+   "embed": 6.2611250033507e-15,
+   "distort": 2.581717645438919
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 4.121309697904025e-16,
+   "embed": 6.091880527398637e-15,
+   "distort": 2.581717645438919
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 6.1545383342878e-16,
+   "embed": 6.09919847421666e-15,
+   "distort": 4.084275276677088
+  },
+  {
+   "dataset": "Adult",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.92860320341282e-15,
+   "embed": 0.11681674373326843,
+   "distort": 6.253629375310656
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 7.469597312472163e-16,
+   "embed": 6.693969678507393e-15,
+   "distort": 0.8229805124237531
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 2.6569550229953336e-16,
+   "embed": 6.648353086673006e-15,
+   "distort": 0.35921834334953023
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 8.476870736643321e-16,
+   "embed": 0.4778803217083615,
+   "distort": 0.549303400348578
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.0485604599480646e-16,
+   "embed": 0.5236798699033917,
+   "distort": 0.5467791315721184
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.534855559672727,
+   "embed": 0.24918525114612627,
+   "distort": 12.164585451901347
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.427384237016387e-16,
+   "embed": 7.331218881244337e-15,
+   "distort": 2.0013171692647718
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 2.469531270039105e-16,
+   "embed": 6.1091520893109165e-15,
+   "distort": 0.19368551202424064
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.4475086931212653e-16,
+   "embed": 6.2943806343080225e-15,
+   "distort": 0.44715576322449246
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.4,
+   "axiom": 4.3523507069674907e-16,
+   "embed": 6.300769973750874e-15,
+   "distort": 2.2814499885329114
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 2.469531270039105e-16,
+   "embed": 6.1091520893109165e-15,
+   "distort": 0.19368551202424064
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 2.851910385750817e-16,
+   "embed": 6.295864543156172e-15,
+   "distort": 1.6338219586700546
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.1,
+   "axiom": 1.1185871002801506e-15,
+   "embed": 6.0171101885612365e-15,
+   "distort": 6.480153869205461
+  },
+  {
+   "dataset": "Adult",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 2.3297751664074354e-15,
+   "embed": 0.11716669625421583,
+   "distort": 6.172893552179988
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 2.592782969731114e-16,
+   "embed": 6.7157377942524195e-15,
+   "distort": 1.0531473808370737
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.5884129675706647e-16,
+   "embed": 6.648353086339005e-15,
+   "distort": 0.32455886129947453
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 7.779490601972718e-16,
+   "embed": 0.4688354863719909,
+   "distort": 0.5493034003488205
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 2.950996913160865e-16,
+   "embed": 0.5264880328198742,
+   "distort": 0.546779131572224
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5340753693915625,
+   "embed": 0.2458095769667106,
+   "distort": 14.48869190225831
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.1467640298396515e-16,
+   "embed": 6.977388328879586e-15,
+   "distort": 1.9046233319196701
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 2.355564094777311e-16,
+   "embed": 6.2885237126545674e-15,
+   "distort": 0.5060633320699222
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 4.044953776560375e-16,
+   "embed": 6.2930559858023714e-15,
+   "distort": 2.10840522901052
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.0,
+   "axiom": 6.777791160596018e-16,
+   "embed": 6.369679737802105e-15,
+   "distort": 3.833996988492087
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 6.762289708228493e-16,
+   "embed": 6.140266484225889e-15,
+   "distort": 3.6983394394670106
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 6.762959007343101e-16,
+   "embed": 6.484510917760928e-15,
+   "distort": 3.6983394394670106
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.0,
+   "axiom": 6.777791160596018e-16,
+   "embed": 6.369679737802105e-15,
+   "distort": 3.833996988492087
+  },
+  {
+   "dataset": "Adult",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 2.2251922127914732e-15,
+   "embed": 0.11744033452701311,
+   "distort": 6.234496493407331
+  },
+  {
+   "dataset": "Adult",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 4.805331313208687e-16,
+   "embed": 6.407092909447313e-15,
+   "distort": 0.4385245320878744
+  },
+  {
+   "dataset": "Adult",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 2.755457223613497e-16,
+   "embed": 6.268447195694012e-15,
+   "distort": 0.4129669298836059
+  },
+  {
+   "dataset": "Adult",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 7.461527920624241e-16,
+   "embed": 0.4658175166816095,
+   "distort": 0.5493034003488174
+  },
+  {
+   "dataset": "Adult",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 2.99225236577144e-16,
+   "embed": 0.5177068937268026,
+   "distort": 0.5467791315722847
+  },
+  {
+   "dataset": "Adult",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5331233418764234,
+   "embed": 0.24728911063860098,
+   "distort": 13.8835946394306
+  },
+  {
+   "dataset": "Adult",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 2.867521202957673e-16,
+   "embed": 7.440886084104335e-15,
+   "distort": 2.5370389969428326
+  },
+  {
+   "dataset": "Adult",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.2690500734192872e-15,
+   "embed": 0.1166696128690119,
+   "distort": 6.283520861966671
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 2.280221712494863e-16,
+   "embed": 6.278452111072599e-15,
+   "distort": 0.23066349451722004
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.570450181807807e-16,
+   "embed": 6.648353086424302e-15,
+   "distort": 0.3379134125647264
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 7.440234656877646e-16,
+   "embed": 0.47026839851665087,
+   "distort": 0.549303400348648
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 2.9802651741797924e-16,
+   "embed": 0.5278392233562612,
+   "distort": 0.5467791315724456
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5330353116959806,
+   "embed": 0.24500947782565727,
+   "distort": 14.14443868485976
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.104890277877167e-16,
+   "embed": 6.777641789899364e-15,
+   "distort": 1.020329512062726
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 4.662983158829335e-16,
+   "embed": 6.2729263757417476e-15,
+   "distort": 0.6872449851519654
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.23118094837555e-16,
+   "embed": 6.0994114683368595e-15,
+   "distort": 1.3485402392150694
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 4.555222511288235e-16,
+   "embed": 6.309762871188939e-15,
+   "distort": 3.6399981676481845
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 3.8094525487782563e-16,
+   "embed": 6.2851531928469605e-15,
+   "distort": 3.0741427227388223
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 3.6374316449246695e-16,
+   "embed": 6.300958062898464e-15,
+   "distort": 3.628897999341265
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 3.6446074901843544e-16,
+   "embed": 6.333884490194576e-15,
+   "distort": 3.7754205506165674
+  },
+  {
+   "dataset": "Adult",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.2235067828510126e-15,
+   "embed": 0.11754229741763263,
+   "distort": 6.191954232132262
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 6.903912666860729e-16,
+   "embed": 6.78383490129281e-15,
+   "distort": 1.575416503815434
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.4868591216096153e-16,
+   "embed": 6.838306031768879e-15,
+   "distort": 0.35430571957828744
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.644812021582093e-16,
+   "embed": 0.4742047023913996,
+   "distort": 0.5493034003485678
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 2.8881099094244825e-16,
+   "embed": 0.528575153179154,
+   "distort": 0.5467791315722267
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5394824917366198,
+   "embed": 0.24787499212179254,
+   "distort": 11.96752594072493
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.5101250461934e-16,
+   "embed": 7.166469638134834e-15,
+   "distort": 2.0157050040893365
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 2.266725536377546e-16,
+   "embed": 6.431799329870012e-15,
+   "distort": 0.49610067563383675
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.246834950081523e-16,
+   "embed": 6.257076567816144e-15,
+   "distort": 0.807284433954607
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 3.6926158004030884e-16,
+   "embed": 6.2736790609885634e-15,
+   "distort": 3.519927056189867
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 4.419418592760486e-16,
+   "embed": 6.257976289987814e-15,
+   "distort": 0.9064257193002534
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 7.095898248815312e-16,
+   "embed": 6.269133606214154e-15,
+   "distort": 3.5284842009043333
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 1.3649739247720104e-15,
+   "embed": 6.3573656690469655e-15,
+   "distort": 6.334028631961718
+  },
+  {
+   "dataset": "Adult",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.9198197602731827e-15,
+   "embed": 0.11716669625421608,
+   "distort": 6.250337843591192
+  },
+  {
+   "dataset": "Adult",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 5.949025703223893e-16,
+   "embed": 7.139040196359955e-15,
+   "distort": 1.5462037468076628
+  },
+  {
+   "dataset": "Adult",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.5696672938922613e-16,
+   "embed": 6.648353086336119e-15,
+   "distort": 0.3311089126608479
+  },
+  {
+   "dataset": "Adult",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.770013162932565e-16,
+   "embed": 0.4709254059143917,
+   "distort": 0.5493034003485576
+  },
+  {
+   "dataset": "Adult",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 2.918138812945561e-16,
+   "embed": 0.5256617679529084,
+   "distort": 0.546779131572119
+  },
+  {
+   "dataset": "Adult",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.554447404911479,
+   "embed": 0.2484380573506861,
+   "distort": 14.016865563109713
+  },
+  {
+   "dataset": "Adult",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 6.23081924718635e-16,
+   "embed": 7.0984187666584926e-15,
+   "distort": 1.8069087487987276
+  },
+  {
+   "dataset": "Adult",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.5338983501541807e-15,
+   "embed": 0.11687621746059834,
+   "distort": 5.761904972416705
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 2.897988340471326e-16,
+   "embed": 6.491388142665292e-15,
+   "distort": 0.9073602532919551
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.51716327081283e-16,
+   "embed": 6.4584001413681e-15,
+   "distort": 0.3569806171287136
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 7.596848204042421e-16,
+   "embed": 0.47247042676664547,
+   "distort": 0.5492856613660351
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.0565449444813133e-16,
+   "embed": 0.5326912601558024,
+   "distort": 0.5425140350679925
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5372209019140205,
+   "embed": 0.24803360930917773,
+   "distort": 16.54431429878358
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 4.191717215063686e-16,
+   "embed": 6.587271683268497e-15,
+   "distort": 1.12872337146999
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 2.4158775460103893e-16,
+   "embed": 6.1754822395529205e-15,
+   "distort": 0.3482716339074499
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.2824607582908e-16,
+   "embed": 6.174150212682741e-15,
+   "distort": 0.9901428227569966
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.108844601269298e-16,
+   "embed": 6.36027858365975e-15,
+   "distort": 2.5783355668374313
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 2.2825954829834673e-16,
+   "embed": 6.174958793566846e-15,
+   "distort": 0.9901428227569966
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 3.9158795417545906e-16,
+   "embed": 5.807264985423834e-15,
+   "distort": 2.9212385151975564
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.6,
+   "axiom": 3.708024500830698e-16,
+   "embed": 5.993371623727003e-15,
+   "distort": 3.5952332677051704
+  },
+  {
+   "dataset": "Adult",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.0492880193172812e-15,
+   "embed": 0.11652799540950341,
+   "distort": 6.226247550969344
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.26036613618077e-16,
+   "embed": 6.7481775385158785e-15,
+   "distort": 0.9274970130850311
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.5765868441281106e-16,
+   "embed": 6.4584001412146866e-15,
+   "distort": 0.3660825708316312
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.0062589339099269e-15,
+   "embed": 0.48017813039071167,
+   "distort": 0.5493034003486451
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.0387688055076e-16,
+   "embed": 0.5221013503884222,
+   "distort": 0.5467791315721181
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5279832189145448,
+   "embed": 0.24573169853926505,
+   "distort": 13.501650595830235
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 4.487823862058327e-16,
+   "embed": 6.532263786983374e-15,
+   "distort": 1.5296413055973546
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 4.714541644429186e-16,
+   "embed": 6.410893488381898e-15,
+   "distort": 0.6685854093387528
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 4.0996546537744377e-16,
+   "embed": 6.254152347681481e-15,
+   "distort": 2.2309638395242515
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 7.533059460839771e-16,
+   "embed": 6.283024183031709e-15,
+   "distort": 4.093646829884666
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 4.555100121026719e-16,
+   "embed": 6.233612763819439e-15,
+   "distort": 2.9633098849787425
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 7.515038627302844e-16,
+   "embed": 6.242843845292281e-15,
+   "distort": 4.093646829884666
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 7.533059460839771e-16,
+   "embed": 6.283024183031709e-15,
+   "distort": 4.093646829884666
+  },
+  {
+   "dataset": "Adult",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 2.4259574398872096e-15,
+   "embed": 0.11663095579951832,
+   "distort": 6.206232561358429
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 1.9225809932756813e-16,
+   "embed": 6.782704058848692e-15,
+   "distort": 1.2902062615811916
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 2.674850127260952e-16,
+   "embed": 6.125982487849873e-15,
+   "distort": 0.7639720094970743
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.1458105117777309e-15,
+   "embed": 0.38968789396808623,
+   "distort": 0.6929829243214143
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.730609901877161e-16,
+   "embed": 0.41330533380560824,
+   "distort": 0.6725566705901189
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8387080513584839,
+   "embed": 0.2412521180868236,
+   "distort": 8.461599218257302
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 6.114343698183377e-16,
+   "embed": 7.688073225773253e-15,
+   "distort": 4.028477181103446
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.7201406854749587e-16,
+   "embed": 6.320594373454153e-15,
+   "distort": 0.12018769987061612
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.607886790480854e-16,
+   "embed": 6.320005587119768e-15,
+   "distort": 0.2545873489564734
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 3.4483705377024083e-16,
+   "embed": 6.317734843108384e-15,
+   "distort": 0.5214948767591603
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 5.317908407381567e-16,
+   "embed": 6.320260910171244e-15,
+   "distort": 1.6263875172427187
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 6.909171222138206e-16,
+   "embed": 6.2006434652423356e-15,
+   "distort": 3.45519034017631
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.7,
+   "axiom": 8.204457498276374e-16,
+   "embed": 6.3504155738176186e-15,
+   "distort": 5.051688067519993
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.628409255495137e-16,
+   "embed": 0.11646763968745433,
+   "distort": 6.666866981440064
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 7.32944385941896e-16,
+   "embed": 6.366547805528225e-15,
+   "distort": 1.7302454863822083
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 5.094201027730119e-16,
+   "embed": 6.410911905951648e-15,
+   "distort": 0.7366555097023347
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.986125266705418e-16,
+   "embed": 0.3908027343879559,
+   "distort": 0.6929829243214143
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.461993577482712e-16,
+   "embed": 0.41899152885133406,
+   "distort": 0.6725566705903393
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8953118214540218,
+   "embed": 0.2475316138518733,
+   "distort": 8.585247021571174
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 4.717478131254447e-16,
+   "embed": 7.164910439525387e-15,
+   "distort": 5.085432076217888
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.618229098780552e-16,
+   "embed": 6.2251017639865e-15,
+   "distort": 0.03122582654054518
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.547261228858302e-16,
+   "embed": 6.360743586425997e-15,
+   "distort": 0.12539266991941558
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 6.485913020794823e-16,
+   "embed": 6.3687944472790396e-15,
+   "distort": 0.7764563695472206
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 5.559581135850036e-16,
+   "embed": 6.226545283777415e-15,
+   "distort": 1.3127290271071819
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 9.401232391969538e-16,
+   "embed": 6.097827929238797e-15,
+   "distort": 3.5637170006057968
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.9,
+   "axiom": 9.403398547219617e-16,
+   "embed": 6.118519695930603e-15,
+   "distort": 4.018336705122294
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.276097869155738e-16,
+   "embed": 0.11630303565644994,
+   "distort": 6.661509439888049
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.2440050724885e-16,
+   "embed": 6.9245695619537936e-15,
+   "distort": 1.587219132120347
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.2091442325599895e-16,
+   "embed": 6.2684471971081275e-15,
+   "distort": 0.8376158149698915
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.1146524946737506e-15,
+   "embed": 0.3860280957824641,
+   "distort": 0.6929829243211697
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.512633618830104e-16,
+   "embed": 0.41185204475810383,
+   "distort": 0.6725566705901189
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8431018765662145,
+   "embed": 0.2425075822836273,
+   "distort": 8.69098072931768
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 1.0992738932234995e-15,
+   "embed": 7.447019318460807e-15,
+   "distort": 4.488406150861898
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.5893289319558917e-16,
+   "embed": 6.127867875144823e-15,
+   "distort": 0.07139074971466054
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.6029036485864955e-16,
+   "embed": 6.261283727308958e-15,
+   "distort": 0.1463953372791956
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 3.209189515238187e-16,
+   "embed": 6.267062591017636e-15,
+   "distort": 0.8771656405831522
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 4.988530593393666e-16,
+   "embed": 6.128214026050402e-15,
+   "distort": 1.3462314594082236
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 8.714884153532998e-16,
+   "embed": 6.13434284668178e-15,
+   "distort": 3.7046247126158995
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.4,
+   "axiom": 7.727253896104201e-16,
+   "embed": 6.1655128870759196e-15,
+   "distort": 4.179319106545486
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.257161227218706e-16,
+   "embed": 0.11627479118372155,
+   "distort": 6.627662590357778
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.0802998881882905e-16,
+   "embed": 6.528598277949281e-15,
+   "distort": 1.52021703936864
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.8699129493416055e-16,
+   "embed": 6.268447197258896e-15,
+   "distort": 0.7582569735336967
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.1764841334216613e-15,
+   "embed": 0.3906847904141109,
+   "distort": 0.6929829243214143
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.760999782628553e-16,
+   "embed": 0.41331970748038266,
+   "distort": 0.672556670590339
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8899829181654074,
+   "embed": 0.24455158925747858,
+   "distort": 8.471255211529972
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.760891030981016e-16,
+   "embed": 7.525318124741576e-15,
+   "distort": 3.84429309948446
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.742334953817839e-16,
+   "embed": 6.18286260465371e-15,
+   "distort": 0.10177563954291453
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.5462674356375596e-16,
+   "embed": 6.469963152242234e-15,
+   "distort": 0.3101463689942191
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.8,
+   "axiom": 3.361094621680604e-16,
+   "embed": 6.180540027923663e-15,
+   "distort": 0.6066037128011313
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 4.3961169529928707e-16,
+   "embed": 6.185211246088381e-15,
+   "distort": 2.930381313536765
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 3.9872488510823113e-16,
+   "embed": 6.042426417799221e-15,
+   "distort": 3.3269826170597785
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 8.018275542751285e-16,
+   "embed": 6.19774487035752e-15,
+   "distort": 4.4495187551456645
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.302662166295323e-16,
+   "embed": 0.11621065019123318,
+   "distort": 6.354007571813302
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 5.570055206643071e-16,
+   "embed": 6.6131108266804226e-15,
+   "distort": 1.5214928227688196
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.916037096611225e-16,
+   "embed": 6.125982487882761e-15,
+   "distort": 0.7818100259469692
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.0079602081345529e-15,
+   "embed": 0.38710734835750804,
+   "distort": 0.6929829243211697
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.528228635397986e-16,
+   "embed": 0.4213881163469677,
+   "distort": 0.6725566705901194
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8482529096899559,
+   "embed": 0.24314897591205994,
+   "distort": 8.603833332696468
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.2420753814222497e-16,
+   "embed": 6.893958004599955e-15,
+   "distort": 2.589860425025224
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.60360288861455e-16,
+   "embed": 5.772411245685992e-15,
+   "distort": 0.0953395105282501
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 7.066077032162234e-16,
+   "embed": 5.903770408613223e-15,
+   "distort": 0.17398758093646938
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 3.3073515107441205e-16,
+   "embed": 6.299933318392602e-15,
+   "distort": 0.5586580176558696
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 3.573024230065688e-16,
+   "embed": 6.0349253972951905e-15,
+   "distort": 0.3116934983594922
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 0.3333333333333333,
+   "axiom": 8.581476202609455e-16,
+   "embed": 6.041227114791883e-15,
+   "distort": 2.504771559285434
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.3,
+   "axiom": 6.723808288432925e-16,
+   "embed": 5.796939708148693e-15,
+   "distort": 3.117701493892712
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.6568222244580855e-15,
+   "embed": 0.11646763968745462,
+   "distort": 6.647173705086388
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.0671699446362875e-16,
+   "embed": 6.303339975312392e-15,
+   "distort": 1.2327525837004627
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.3376433562161863e-16,
+   "embed": 6.125982487885302e-15,
+   "distort": 0.8417324810208817
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.0168483803175907e-15,
+   "embed": 0.3825858010893204,
+   "distort": 0.6929829243211697
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.558170498652352e-16,
+   "embed": 0.4031444762014276,
+   "distort": 0.6725566705903395
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.824723938928145,
+   "embed": 0.24071330341726274,
+   "distort": 8.436038639168416
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 8.179074831406264e-16,
+   "embed": 7.634716264859641e-15,
+   "distort": 6.3160090290196385
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 7.069040213634324e-16,
+   "embed": 6.026773868054641e-15,
+   "distort": 0.2227273734451155
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 6.917269944420155e-16,
+   "embed": 6.27754684992633e-15,
+   "distort": 0.31246247510924946
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 6.843059126260798e-16,
+   "embed": 6.275863390942302e-15,
+   "distort": 0.4503192209465703
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 5.287449437522655e-16,
+   "embed": 6.1562391307565785e-15,
+   "distort": 3.6879694441105135
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 0.3333333333333333,
+   "axiom": 6.219199594048598e-16,
+   "embed": 6.16510962334059e-15,
+   "distort": 5.205174736582383
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.6,
+   "axiom": 6.221326683093477e-16,
+   "embed": 6.056128125545179e-15,
+   "distort": 5.205174736582383
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.222621882078289e-16,
+   "embed": 0.1165217519561638,
+   "distort": 6.6589165914668005
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 2.969253205260779e-16,
+   "embed": 6.249366947121026e-15,
+   "distort": 1.1696373060420318
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.999491319270877e-16,
+   "embed": 6.268447197135405e-15,
+   "distort": 0.711731996092817
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.608205070624514e-16,
+   "embed": 0.3917073941790058,
+   "distort": 0.6929829243214143
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.846278246046673e-16,
+   "embed": 0.4259763133123355,
+   "distort": 0.6725566705903395
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8291482941783136,
+   "embed": 0.2442695161339579,
+   "distort": 8.548995945237127
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 2.7953308896893963e-16,
+   "embed": 6.8755510902048365e-15,
+   "distort": 1.755787349211721
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.8116080424787247e-16,
+   "embed": 6.3364879003792616e-15,
+   "distort": 0.10412516858559104
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.732260192911352e-16,
+   "embed": 6.1932534961003335e-15,
+   "distort": 0.24669879115964147
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 6.742562889196177e-16,
+   "embed": 6.202600009546741e-15,
+   "distort": 0.8346867757752469
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 5.918887199853856e-16,
+   "embed": 6.196351591894997e-15,
+   "distort": 2.8955963386790726
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 5.919270307525666e-16,
+   "embed": 6.205231109443976e-15,
+   "distort": 3.053130431765984
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.0,
+   "axiom": 5.922948831951076e-16,
+   "embed": 6.241680329094123e-15,
+   "distort": 3.266534332837489
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.220227397232089e-16,
+   "embed": 0.11671542120970382,
+   "distort": 6.418609696267056
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 4.275436248692558e-16,
+   "embed": 7.0481919582526245e-15,
+   "distort": 1.7222382200166189
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 2.6252517315594793e-16,
+   "embed": 6.1259824879231065e-15,
+   "distort": 0.7359348185324033
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.876554107932791e-16,
+   "embed": 0.38985536533549353,
+   "distort": 0.6929829243211697
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.727730908970035e-16,
+   "embed": 0.4228827760317633,
+   "distort": 0.6725566705903395
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8834834727477197,
+   "embed": 0.24494851353359925,
+   "distort": 8.008622572691378
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.530040479431817e-16,
+   "embed": 6.813776416377716e-15,
+   "distort": 1.9811482586064304
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.7483921671241985e-16,
+   "embed": 5.890446876927101e-15,
+   "distort": 0.14388352531573678
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.5423827184677567e-16,
+   "embed": 6.1648811924231976e-15,
+   "distort": 0.29935190388661337
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 3.4266489129363317e-16,
+   "embed": 6.169075164773156e-15,
+   "distort": 0.525498507117283
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 4.546069240590596e-16,
+   "embed": 6.031595489468717e-15,
+   "distort": 2.1795043183391543
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 1.2528211960359054e-15,
+   "embed": 6.037852223518368e-15,
+   "distort": 2.985840616547704
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.7,
+   "axiom": 1.0567725578497452e-15,
+   "embed": 6.074495134960306e-15,
+   "distort": 3.83213529927244
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 9.857897890347648e-16,
+   "embed": 0.11724547343425401,
+   "distort": 6.405785475316075
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.072952496238984e-16,
+   "embed": 6.947739664662421e-15,
+   "distort": 1.7557129407058674
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 2.6539816577722567e-16,
+   "embed": 5.841053069832587e-15,
+   "distort": 0.7915780677458236
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.0025853014771729e-15,
+   "embed": 0.37986866980511724,
+   "distort": 0.6929829243211697
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.443738028415215e-16,
+   "embed": 0.3809482659217157,
+   "distort": 0.6725566705902168
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8194640747720106,
+   "embed": 0.2458795660712094,
+   "distort": 8.714519991194653
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.7054295623247266e-16,
+   "embed": 7.460391769280612e-15,
+   "distort": 4.7688604975308335
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.580844755683375e-16,
+   "embed": 6.25265451622541e-15,
+   "distort": 0.132326964814927
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.4729792784285647e-16,
+   "embed": 6.253674908418083e-15,
+   "distort": 0.25270757204829375
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 6.238502467022937e-16,
+   "embed": 6.257429184622956e-15,
+   "distort": 0.6917802604926324
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 5.343437784918177e-16,
+   "embed": 6.2618293642661696e-15,
+   "distort": 3.3118704877252942
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 0.3333333333333333,
+   "axiom": 8.88670078155844e-16,
+   "embed": 6.146084583306037e-15,
+   "distort": 3.708283400691187
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.1,
+   "axiom": 8.887227593455049e-16,
+   "embed": 6.439532454229287e-15,
+   "distort": 3.7401006844296325
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 7.380290044141406e-16,
+   "embed": 0.11630303565645014,
+   "distort": 6.646831528341343
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 2.4287804321341885e-16,
+   "embed": 6.0150348003479746e-15,
+   "distort": 1.9137732481823326
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 2.842695469765645e-16,
+   "embed": 6.268447196932188e-15,
+   "distort": 0.7449895450658579
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.0015327237768976e-15,
+   "embed": 0.3964526408836974,
+   "distort": 0.6929829243210501
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.48819730383509e-16,
+   "embed": 0.41263938073291684,
+   "distort": 0.6725566705900948
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8601088508936265,
+   "embed": 0.24811367193972603,
+   "distort": 8.54743294655289
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.652206994235654e-16,
+   "embed": 6.9434896225531685e-15,
+   "distort": 1.6966007638978164
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.5198682782982014e-16,
+   "embed": 6.1139687210073356e-15,
+   "distort": 0.13781828390068895
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 4.2719871552656357e-16,
+   "embed": 6.1153646476461274e-15,
+   "distort": 0.32355289506154095
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 6.308559543061803e-16,
+   "embed": 6.123141763463327e-15,
+   "distort": 0.6949955556241417
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 6.704594968297979e-16,
+   "embed": 6.11928786893099e-15,
+   "distort": 2.7320930802839194
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 6.705088686557716e-16,
+   "embed": 6.123019516740933e-15,
+   "distort": 2.7320930802839194
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 9.646339847261232e-16,
+   "embed": 6.012109049272774e-15,
+   "distort": 3.299435705865896
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 7.803469248574248e-16,
+   "embed": 0.11641872425709363,
+   "distort": 6.636635802026073
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.364776660557003e-16,
+   "embed": 6.2153746032312214e-15,
+   "distort": 1.480633453756878
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 2.6421246537383064e-16,
+   "embed": 6.12598248821287e-15,
+   "distort": 0.7041516686898774
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.98476997284677e-16,
+   "embed": 0.38720616460227325,
+   "distort": 0.6929829243214143
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 5.067967360199051e-16,
+   "embed": 0.44325129049929746,
+   "distort": 0.672556670590584
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8707599570109689,
+   "embed": 0.24535969937023,
+   "distort": 8.435578524995936
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.0072031553714355e-16,
+   "embed": 6.8468726812658436e-15,
+   "distort": 3.4379507608559754
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.897072065873243e-16,
+   "embed": 6.159028566283108e-15,
+   "distort": 0.10056595759640617
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.7795617413550847e-16,
+   "embed": 6.1601999332301316e-15,
+   "distort": 0.24569033573832977
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.8,
+   "axiom": 3.356930997888168e-16,
+   "embed": 6.022066731012712e-15,
+   "distort": 0.8896951587614729
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 7.989423666051784e-16,
+   "embed": 6.014057115998579e-15,
+   "distort": 2.7166011318571144
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 0.6666666666666666,
+   "axiom": 5.829448998001969e-16,
+   "embed": 6.175755940165633e-15,
+   "distort": 3.2848859199257325
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.5,
+   "axiom": 9.932229635995615e-16,
+   "embed": 6.212094532043154e-15,
+   "distort": 3.63285706546359
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.69448370256153e-16,
+   "embed": 0.11625169227146981,
+   "distort": 6.349479384671423
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 2.1370952806200695e-16,
+   "embed": 6.314135977437188e-15,
+   "distort": 0.25373337917872674
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.241568897650164e-16,
+   "embed": 6.2684471968846645e-15,
+   "distort": 0.7828564465653738
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.3462879757104377e-15,
+   "embed": 0.3834571758546207,
+   "distort": 0.6929829243214143
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.502090937349246e-16,
+   "embed": 0.40145383411335883,
+   "distort": 0.6725566705900948
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8243295644353495,
+   "embed": 0.24585055906771833,
+   "distort": 8.548995945237127
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.289304768096722e-16,
+   "embed": 6.991285407409967e-15,
+   "distort": 5.131712693790844
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.575007522704868e-16,
+   "embed": 6.4153731792194026e-15,
+   "distort": 0.1513376304770562
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 7.121508535104846e-16,
+   "embed": 6.153626926602966e-15,
+   "distort": 0.1918015346256531
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 6.908738028966903e-16,
+   "embed": 6.154235791532807e-15,
+   "distort": 0.37866844106360015
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 7.122625853562018e-16,
+   "embed": 6.288985777259975e-15,
+   "distort": 2.899280924527116
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 5.475971030932217e-16,
+   "embed": 6.04006822741047e-15,
+   "distort": 3.3558756204148414
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.6,
+   "axiom": 5.486903416486875e-16,
+   "embed": 5.937114559382788e-15,
+   "distort": 4.484758870073523
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.612898333889493e-16,
+   "embed": 0.11641872425709358,
+   "distort": 6.666866981440064
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 1.9158095734365612e-16,
+   "embed": 5.857055741064228e-15,
+   "distort": 1.4307888434810583
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.221874409977338e-16,
+   "embed": 6.125982487978655e-15,
+   "distort": 0.6868048796004804
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.362735901513769e-15,
+   "embed": 0.3891779140711449,
+   "distort": 0.6929829243214143
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.630965220193666e-16,
+   "embed": 0.42513159247421617,
+   "distort": 0.6725566705905839
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8267984680258896,
+   "embed": 0.24916663372995038,
+   "distort": 8.566704686346505
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.3318744331416827e-16,
+   "embed": 7.025130806271172e-15,
+   "distort": 1.4832895584443004
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 7.040107849605954e-16,
+   "embed": 6.1821973734989845e-15,
+   "distort": 0.2676016029146241
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 6.974274909254955e-16,
+   "embed": 6.039656602130937e-15,
+   "distort": 0.32483931090122176
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 3.301955061582783e-16,
+   "embed": 5.901523776482969e-15,
+   "distort": 0.6198185169329109
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 6.517715671639393e-16,
+   "embed": 5.8955962149945234e-15,
+   "distort": 0.6994800856071897
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 6.080840646576375e-16,
+   "embed": 6.194428743897336e-15,
+   "distort": 3.3705708670398162
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.0,
+   "axiom": 9.250955078757394e-16,
+   "embed": 6.08314433180525e-15,
+   "distort": 3.7978984525768436
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.92010784584562e-16,
+   "embed": 0.11622090799423336,
+   "distort": 6.653658921288263
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.077026310514414e-16,
+   "embed": 5.8644242671255636e-15,
+   "distort": 1.4016190592743891
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 4.560573924103893e-16,
+   "embed": 6.1259824879344495e-15,
+   "distort": 0.8015740785178144
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.1065231378022374e-15,
+   "embed": 0.38808953239096133,
+   "distort": 0.6929829243211704
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.3302619737197335e-16,
+   "embed": 0.40792283798526746,
+   "distort": 0.672556670590584
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8725095881668328,
+   "embed": 0.24445701472886208,
+   "distort": 8.505362411410365
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.9111170060768963e-16,
+   "embed": 6.785591428628058e-15,
+   "distort": 3.028462363548839
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.506496611159059e-16,
+   "embed": 6.3132870951592775e-15,
+   "distort": 0.1290630346144577
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.480345291533545e-16,
+   "embed": 6.055269331819259e-15,
+   "distort": 0.20089790198757773
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 3.298105711637472e-16,
+   "embed": 6.05370311929844e-15,
+   "distort": 0.4741864157567985
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 5.890083637617076e-16,
+   "embed": 5.926588134427017e-15,
+   "distort": 0.9667229146736708
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 9.227051866775897e-16,
+   "embed": 6.185001834559624e-15,
+   "distort": 4.688009084651682
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 9.230427807502724e-16,
+   "embed": 5.938891913374827e-15,
+   "distort": 4.688009084651682
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.096640235079491e-16,
+   "embed": 0.11622090799423337,
+   "distort": 6.663318637857653
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 6.046515070677829e-16,
+   "embed": 6.422577946583644e-15,
+   "distort": 0.78140430984895
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 2.5516035918334183e-16,
+   "embed": 6.1259824880092706e-15,
+   "distort": 0.751228039301034
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.0069616150578426e-15,
+   "embed": 0.39440659757842944,
+   "distort": 0.6929335757481642
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.3892979444913597e-16,
+   "embed": 0.42133029470210076,
+   "distort": 0.6624475844699257
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8577860974675582,
+   "embed": 0.2492195193268501,
+   "distort": 8.277680799988534
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.827302877573814e-16,
+   "embed": 7.019766431970369e-15,
+   "distort": 6.84924780993849
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.6068515605842704e-16,
+   "embed": 6.242274780802993e-15,
+   "distort": 0.0843987315264321
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.5344934198553497e-16,
+   "embed": 5.965244977829846e-15,
+   "distort": 0.15184497809412584
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 3.3186248501607677e-16,
+   "embed": 5.9685154706428824e-15,
+   "distort": 0.45295426145296863
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 4.863284106118761e-16,
+   "embed": 6.107866552759642e-15,
+   "distort": 3.1665937251312823
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 4.889626753776523e-16,
+   "embed": 6.259943708436731e-15,
+   "distort": 4.094947336939824
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.1,
+   "axiom": 4.891747638065458e-16,
+   "embed": 6.016046714729342e-15,
+   "distort": 4.094947336939824
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 7.705155348885098e-16,
+   "embed": 0.11625169227147014,
+   "distort": 6.653957389835316
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 2.7482716775314116e-16,
+   "embed": 5.944641736504262e-15,
+   "distort": 2.0873138953103623
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.014346335068886e-16,
+   "embed": 6.268447196954949e-15,
+   "distort": 0.7894285487895376
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.0339567648988599e-15,
+   "embed": 0.39353690577532974,
+   "distort": 0.6929829243214143
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.611312681938811e-16,
+   "embed": 0.3997324525236714,
+   "distort": 0.672556670590584
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8693861026431337,
+   "embed": 0.24701805390446346,
+   "distort": 8.67088645736789
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.289236516164142e-16,
+   "embed": 7.59070438397731e-15,
+   "distort": 3.311250257555207
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.590218572478325e-16,
+   "embed": 6.489002516544078e-15,
+   "distort": 0.18445647254155895
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.5329607599849503e-16,
+   "embed": 6.361199428450987e-15,
+   "distort": 0.31012303192167184
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 6.42806789244316e-16,
+   "embed": 6.4999668239733295e-15,
+   "distort": 0.9290943779966279
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 8.795359897821521e-16,
+   "embed": 6.3641694546615135e-15,
+   "distort": 2.375039563631298
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 7.554505932423832e-16,
+   "embed": 6.500858214018208e-15,
+   "distort": 3.0693926788307944
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.6,
+   "axiom": 7.55636884122126e-16,
+   "embed": 6.3930629618004205e-15,
+   "distort": 3.0693926788307944
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.740926753096422e-16,
+   "embed": 0.11746513218544681,
+   "distort": 6.630305752292607
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.6960809910615226e-16,
+   "embed": 6.420453392805239e-15,
+   "distort": 1.4347322288707902
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.4984389157890394e-16,
+   "embed": 6.268447197044808e-15,
+   "distort": 0.8126155399186319
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.0442836009296399e-15,
+   "embed": 0.38591471327145405,
+   "distort": 0.6929829243214143
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.3415298939315614e-16,
+   "embed": 0.406892581051045,
+   "distort": 0.672556670590584
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8705086400157116,
+   "embed": 0.24359620192514697,
+   "distort": 8.177638331273778
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.072026225502535e-16,
+   "embed": 6.840345885442829e-15,
+   "distort": 2.366305949993589
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.4971369111932755e-16,
+   "embed": 5.991902830675537e-15,
+   "distort": 0.13030819368117627
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 6.772313224917353e-16,
+   "embed": 5.8613864897293326e-15,
+   "distort": 0.24996487120725255
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.7,
+   "axiom": 4.1085484553976124e-16,
+   "embed": 5.9906736308106825e-15,
+   "distort": 0.46762235762387844
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 6.224128007846519e-16,
+   "embed": 5.995931739105307e-15,
+   "distort": 3.988669672912268
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 6.224474496561744e-16,
+   "embed": 6.126092496269209e-15,
+   "distort": 3.988669672912268
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 6.878904871165203e-16,
+   "embed": 6.016760155468075e-15,
+   "distort": 4.859801403018817
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 7.812915146751314e-16,
+   "embed": 0.11621065019123279,
+   "distort": 6.628306738244229
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.276992483677872e-16,
+   "embed": 6.3984497808708185e-15,
+   "distort": 1.3215873475670752
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 5.273435761661561e-16,
+   "embed": 6.268447196845679e-15,
+   "distort": 0.8115805954958217
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.0109855698897726e-15,
+   "embed": 0.38333873348553293,
+   "distort": 0.6929829243211697
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.507145267773353e-16,
+   "embed": 0.3912362682807984,
+   "distort": 0.6725566705903395
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8537800335769743,
+   "embed": 0.24228715985659124,
+   "distort": 8.592787636850542
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.747862398710071e-16,
+   "embed": 6.950919984036224e-15,
+   "distort": 3.7158442121750834
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.629306462671191e-16,
+   "embed": 5.97077558773756e-15,
+   "distort": 0.04732958442005681
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.492125662294908e-16,
+   "embed": 6.098447606346365e-15,
+   "distort": 0.2257284972697089
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 3.36239303474297e-16,
+   "embed": 5.97427881878727e-15,
+   "distort": 0.39894072203267705
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 5.642328092109539e-16,
+   "embed": 6.09902625761307e-15,
+   "distort": 1.2167210693070638
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 0.3333333333333333,
+   "axiom": 6.82880678584964e-16,
+   "embed": 6.105845108333621e-15,
+   "distort": 2.972686617434918
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.1,
+   "axiom": 6.831136557017228e-16,
+   "embed": 6.003839485323133e-15,
+   "distort": 3.0524438195620247
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 9.243280580464121e-16,
+   "embed": 0.11637499263449419,
+   "distort": 6.666866981440064
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 3.368899728979274e-16,
+   "embed": 6.38048144435024e-15,
+   "distort": 1.5246690828792253
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 3.8316524006850137e-16,
+   "embed": 6.125982487752419e-15,
+   "distort": 0.71076968452668
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.3177548404517093e-15,
+   "embed": 0.39675822042393044,
+   "distort": 0.6929829243210501
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.367473436913696e-16,
+   "embed": 0.42336383342590744,
+   "distort": 0.6725566705903389
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.876140823225453,
+   "embed": 0.24797943123355567,
+   "distort": 7.763078532089213
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.996937852641695e-16,
+   "embed": 6.768236999620569e-15,
+   "distort": 2.280348323346997
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.5816798048128037e-16,
+   "embed": 6.215832682012808e-15,
+   "distort": 0.03267416622742373
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.503641902889236e-16,
+   "embed": 6.216200192322227e-15,
+   "distort": 0.14522244675284912
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.8,
+   "axiom": 3.289768327859354e-16,
+   "embed": 6.085811240620554e-15,
+   "distort": 0.5331124411485867
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 4.768667296902316e-16,
+   "embed": 5.9514430437033625e-15,
+   "distort": 2.5992718063880367
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 0.3333333333333333,
+   "axiom": 4.2380247929402757e-16,
+   "embed": 5.956840169872374e-15,
+   "distort": 2.8762500609802166
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.1,
+   "axiom": 6.462518715426329e-16,
+   "embed": 5.980041276267553e-15,
+   "distort": 3.3981110636966814
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.0297387071603067e-15,
+   "embed": 0.11641872425709399,
+   "distort": 6.660316727629212
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 5.027455083425595e-16,
+   "embed": 5.786622277771008e-15,
+   "distort": 0.37390325548596964
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 2.765946216285096e-16,
+   "embed": 6.268447197127154e-15,
+   "distort": 0.6850143483307756
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.083297097205494e-15,
+   "embed": 0.3893685397972834,
+   "distort": 0.6929829243211704
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 4.961748450207499e-16,
+   "embed": 0.4404006934801893,
+   "distort": 0.672556670590584
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.8540530263226215,
+   "embed": 0.24793755009458168,
+   "distort": 8.4950542664989
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.665181925311204e-16,
+   "embed": 7.35115488112529e-15,
+   "distort": 1.8374289005412625
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 3.866046904656204e-16,
+   "embed": 5.96094761846079e-15,
+   "distort": 0.1926723141463599
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 3.815609706510912e-16,
+   "embed": 5.96238675337549e-15,
+   "distort": 0.27152828039188975
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 3.6650860029685883e-16,
+   "embed": 5.973761254479236e-15,
+   "distort": 0.6265281818192767
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 5.273068946943917e-16,
+   "embed": 6.112428690263066e-15,
+   "distort": 2.024369410492555
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 7.393483012625324e-16,
+   "embed": 6.2698123118786395e-15,
+   "distort": 3.2488676492143713
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.3,
+   "axiom": 7.404373843802109e-16,
+   "embed": 6.1412685823956025e-15,
+   "distort": 3.2488676492143713
+  },
+  {
+   "dataset": "COMPAS",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 9.179645009969334e-16,
+   "embed": 0.11637499263449429,
+   "distort": 6.420734600745899
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 5.967317855873906e-15,
+   "distort": 1.3185709383476405
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 5.301346555394437e-17,
+   "embed": 6.078494256493964e-15,
+   "distort": 0.973233127894013
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.072545690781303e-16,
+   "embed": 0.44272175236449757,
+   "distort": 0.8947036879813174
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3082747327912247e-16,
+   "embed": 0.6199996703322864,
+   "distort": 0.8456004696513779
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5075273514769413,
+   "embed": 0.2795896369681498,
+   "distort": 6.542125790399079
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 0.0,
+   "embed": 6.3229107941132224e-15,
+   "distort": 2.31957828570497
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1302508083569194e-16,
+   "embed": 5.442604100836347e-15,
+   "distort": 0.02614785080638446
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.136984239124634e-16,
+   "embed": 5.629766870358861e-15,
+   "distort": 0.2767586534588169
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.062442077153982e-16,
+   "embed": 5.81563265278517e-15,
+   "distort": 0.4546565504590204
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 2.060635684956061e-16,
+   "embed": 5.817954725738079e-15,
+   "distort": 0.4303439923420351
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 1.866827001536659e-16,
+   "embed": 5.820840682283057e-15,
+   "distort": 1.1862969701594421
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 5.037409368905816e-16,
+   "embed": 5.643325557737974e-15,
+   "distort": 2.4115384243361158
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 0,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 6.661235706320667e-16,
+   "embed": 0.11593176840195565,
+   "distort": 6.8253530486894824
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 6.531909003051375e-15,
+   "distort": 2.0449127680151777
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 5.888541310907096e-15,
+   "distort": 0.9187059245303255
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.228676466991476e-16,
+   "embed": 0.4455096047788972,
+   "distort": 0.8937760285254169
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6146076562000141,
+   "distort": 0.8470616756287263
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5036436127846267,
+   "embed": 0.2799414516336226,
+   "distort": 4.913020010959505
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 0.0,
+   "embed": 6.6847952396230524e-15,
+   "distort": 1.9424243849379845
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.138486545389076e-16,
+   "embed": 5.7169617174619e-15,
+   "distort": 0.05752246842016506
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 1.130168605719082e-16,
+   "embed": 5.913726277994383e-15,
+   "distort": 0.10884983781374603
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.2200242209045247e-16,
+   "embed": 5.7147896653493604e-15,
+   "distort": 0.20196985527953906
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 2.024657014121258e-16,
+   "embed": 5.519912511477941e-15,
+   "distort": 0.6027095928601365
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 3.548194665924391e-16,
+   "embed": 5.920543181771149e-15,
+   "distort": 1.5044494314156978
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 2.9272540373182984e-16,
+   "embed": 5.722458796559299e-15,
+   "distort": 2.065019746547967
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 1,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.087789025861057e-16,
+   "embed": 0.1156630761080703,
+   "distort": 5.984597083702933
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 8.330612243946534e-18,
+   "embed": 6.063119495193873e-15,
+   "distort": 1.7033358443719644
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 6.0784942565290135e-15,
+   "distort": 0.9868990236501427
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.149577397461747e-16,
+   "embed": 0.4435288431936189,
+   "distort": 0.8949552142645202
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.266936920190512e-16,
+   "embed": 0.6134666081655009,
+   "distort": 0.8453415118226958
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5036447349122487,
+   "embed": 0.2778487419432043,
+   "distort": 5.778141895253634
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 2.2489658076940338e-17,
+   "embed": 6.7849917092174e-15,
+   "distort": 2.4399322330555995
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1251519007842047e-16,
+   "embed": 5.529890112464784e-15,
+   "distort": 0.055643007505462264
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 1.1175847549994668e-16,
+   "embed": 5.898238871336102e-15,
+   "distort": 0.0801099823337518
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.1799704784104617e-16,
+   "embed": 5.896287124753168e-15,
+   "distort": 0.2670214999065467
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 1.879275892495357e-16,
+   "embed": 5.9024766938870934e-15,
+   "distort": 1.6495401509386487
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 0.3333333333333333,
+   "axiom": 4.968896711299142e-16,
+   "embed": 5.535368961850507e-15,
+   "distort": 2.7778662399028486
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.3,
+   "axiom": 4.968896711299142e-16,
+   "embed": 5.733282846698085e-15,
+   "distort": 2.937695005677286
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 2,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 7.366131118977049e-16,
+   "embed": 0.11582926236212095,
+   "distort": 6.0777179057820545
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 5.5694421980041965e-15,
+   "distort": 1.0080305324808043
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 5.388615065854325e-17,
+   "embed": 6.078494257034974e-15,
+   "distort": 1.017166475205642
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.327213352751046e-16,
+   "embed": 0.4403009177051873,
+   "distort": 0.8947618438400747
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6253969189047444,
+   "distort": 0.8456004696513005
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5019559468632916,
+   "embed": 0.2799496811877853,
+   "distort": 4.941006701850179
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 2.49590227311986e-17,
+   "embed": 6.414167024684077e-15,
+   "distort": 3.672944982906575
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1258350276076688e-16,
+   "embed": 5.8801456017966835e-15,
+   "distort": 0.18311216837721125
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.1512743176336588e-16,
+   "embed": 6.0741518494958516e-15,
+   "distort": 0.38050281161314164
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.0169366701878495e-16,
+   "embed": 5.4791130930111935e-15,
+   "distort": 0.6855569001014369
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 4.489183822549244e-16,
+   "embed": 5.49494943000706e-15,
+   "distort": 3.369816478038431
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 4.490045798175484e-16,
+   "embed": 5.9111209940024526e-15,
+   "distort": 3.369816478038431
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.9,
+   "axiom": 4.490034977881728e-16,
+   "embed": 5.530026208664285e-15,
+   "distort": 3.4116503652937293
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 3,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 9.170939441636993e-16,
+   "embed": 0.11587793011941662,
+   "distort": 5.779917792594885
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 6.078845315868421e-15,
+   "distort": 1.5819649736305814
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 6.268447201712399e-15,
+   "distort": 0.9315718713632769
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.067688389035825e-16,
+   "embed": 0.4444793408387541,
+   "distort": 0.8946938449732991
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.276811141054059e-16,
+   "embed": 0.6143065114844635,
+   "distort": 0.8449761354018339
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5117638441846808,
+   "embed": 0.2791643800799593,
+   "distort": 4.872250277816319
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 0.0,
+   "embed": 6.636146617288856e-15,
+   "distort": 2.9652628239094208
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1247953791603525e-16,
+   "embed": 5.644790671558319e-15,
+   "distort": 0.06128872030501202
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.1698130250684794e-16,
+   "embed": 5.644118953660254e-15,
+   "distort": 0.18975403299248372
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.1037647002349787e-16,
+   "embed": 5.640366430399786e-15,
+   "distort": 0.4516737281547076
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 3.153739253431604e-16,
+   "embed": 5.644300594816189e-15,
+   "distort": 1.2611493304248675
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 3.15801450346581e-16,
+   "embed": 5.834953841923717e-15,
+   "distort": 1.5018645718303452
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 3.080626100282096e-16,
+   "embed": 5.838678497143988e-15,
+   "distort": 1.7758087317338351
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 4,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.139359928092571e-16,
+   "embed": 0.11574738795255196,
+   "distort": 5.899986690439322
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 1.3623646032612506e-17,
+   "embed": 5.875615832391253e-15,
+   "distort": 1.2499316144080652
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 6.078494256742753e-15,
+   "distort": 0.9751524615859416
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.17741726971108e-16,
+   "embed": 0.442368081561705,
+   "distort": 0.8954442983816415
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6223920790089791,
+   "distort": 0.8476815556514086
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5039436558592819,
+   "embed": 0.27941494705408404,
+   "distort": 5.985860626988398
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 2.318895487255704e-17,
+   "embed": 7.33109678663427e-15,
+   "distort": 3.3494202578606562
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1283222992015909e-16,
+   "embed": 5.833694113443396e-15,
+   "distort": 0.07743034853150778
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.183975955470883e-16,
+   "embed": 5.832213244249571e-15,
+   "distort": 0.2549448106589301
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 1.9854785455304412e-16,
+   "embed": 5.823339506862109e-15,
+   "distort": 0.7443890718264115
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 3.473937570704015e-16,
+   "embed": 5.833118506261318e-15,
+   "distort": 1.4526785773304272
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 3.3809634638773564e-16,
+   "embed": 5.83020099828191e-15,
+   "distort": 1.5455797628940786
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 5.562581875752738e-16,
+   "embed": 5.6427267801269055e-15,
+   "distort": 3.5926313233384546
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 5,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.0579063604662568e-15,
+   "embed": 0.11627906976744165,
+   "distort": 6.462374565436391
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 2.3512923382974088e-17,
+   "embed": 5.7297935522548356e-15,
+   "distort": 0.8614667786049066
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 5.425563551958683e-17,
+   "embed": 5.888541311057323e-15,
+   "distort": 0.9180219586489201
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.35932584890033e-16,
+   "embed": 0.4472965545707144,
+   "distort": 0.8952650403541756
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6268329920500435,
+   "distort": 0.8405534806981384
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5036197314058829,
+   "embed": 0.28103481282477094,
+   "distort": 4.966361355318667
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.3703330875827467e-17,
+   "embed": 6.854995595990766e-15,
+   "distort": 2.5619377840636766
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1574325273567248e-16,
+   "embed": 5.713251434365428e-15,
+   "distort": 0.03699312117799894
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 1.152961012298804e-16,
+   "embed": 5.515975440322437e-15,
+   "distort": 0.07780750665449644
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.1918928387317797e-16,
+   "embed": 5.71208982676912e-15,
+   "distort": 0.3081802185720489
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 1.1390068449554003e-16,
+   "embed": 5.713140899510801e-15,
+   "distort": 0.10303023968998493
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 1.8482177829788053e-16,
+   "embed": 5.516772519015367e-15,
+   "distort": 1.230394335843392
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.3,
+   "axiom": 3.2800380478365693e-16,
+   "embed": 5.72916861749532e-15,
+   "distort": 2.4642148479058443
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 6,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 1.0062266557906842e-15,
+   "embed": 0.11612445705168042,
+   "distort": 5.836477502976793
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 6.0842077438470734e-15,
+   "distort": 1.7981008445397382
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 6.07849425646606e-15,
+   "distort": 0.9108801209632037
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.32477865158429e-16,
+   "embed": 0.4462284692968881,
+   "distort": 0.8941511268749748
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6226924239395992,
+   "distort": 0.8441713170313457
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.505751879126742,
+   "embed": 0.27950103748974126,
+   "distort": 6.349508028415797
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 3.0986495181525695e-18,
+   "embed": 6.4728469029632385e-15,
+   "distort": 3.999171643148978
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1555859655407532e-16,
+   "embed": 5.923524451404214e-15,
+   "distort": 0.05325406049876005
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 1.7136243445053808e-16,
+   "embed": 5.732466531634216e-15,
+   "distort": 0.11987929725367502
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.180773107962462e-16,
+   "embed": 5.732954973437962e-15,
+   "distort": 0.34139869809645945
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 1.9711603537694748e-16,
+   "embed": 5.92539401608958e-15,
+   "distort": 0.9488674272261176
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 0.3333333333333333,
+   "axiom": 4.053229404513616e-16,
+   "embed": 5.745030785837259e-15,
+   "distort": 3.459187685051663
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.6,
+   "axiom": 4.0538333028755453e-16,
+   "embed": 5.9905872282932465e-15,
+   "distort": 3.966255922094031
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 7,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 4.332269437964547e-16,
+   "embed": 0.11627906976744146,
+   "distort": 5.8657524038891244
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 5.792862292144102e-15,
+   "distort": 1.0382916813926784
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 6.07849425588682e-15,
+   "distort": 0.8736777773831915
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.20420464940667e-16,
+   "embed": 0.4469061666996182,
+   "distort": 0.8948454063118882
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6207158304648164,
+   "distort": 0.8470616756289755
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5108536237015158,
+   "embed": 0.28048297723813015,
+   "distort": 5.637585361670783
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 0.0,
+   "embed": 6.599181512464379e-15,
+   "distort": 3.458374605595898
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1467527120208521e-16,
+   "embed": 5.869944012894602e-15,
+   "distort": 0.03626863540974214
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.2480865312824675e-16,
+   "embed": 5.680476925163317e-15,
+   "distort": 0.14012072426362562
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.1299910938036704e-16,
+   "embed": 5.6805257125744555e-15,
+   "distort": 0.42760764552541264
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 2.7772440338388073e-16,
+   "embed": 5.683182561463663e-15,
+   "distort": 2.095028290949917
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 2.7772828599231725e-16,
+   "embed": 5.6853031214100926e-15,
+   "distort": 2.185065887172934
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 2.778642966118933e-16,
+   "embed": 5.882840637839413e-15,
+   "distort": 2.4965213850806784
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 8,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 7.809855839689237e-16,
+   "embed": 0.11675839479489299,
+   "distort": 6.075956798010638
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 5.962078084856545e-15,
+   "distort": 1.7760002523753493
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 5.888541311281072e-15,
+   "distort": 0.9920277765431909
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.28396713649098e-16,
+   "embed": 0.4428753246969424,
+   "distort": 0.8948454063118934
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6158448049747783,
+   "distort": 0.8449761354017965
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5050345268509626,
+   "embed": 0.2790217751291939,
+   "distort": 5.223007854321314
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 0.0,
+   "embed": 6.526545950775981e-15,
+   "distort": 2.415970511349429
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1523596717035358e-16,
+   "embed": 5.725141262421749e-15,
+   "distort": 0.045981110896820054
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.2286272793244634e-16,
+   "embed": 5.915671145549265e-15,
+   "distort": 0.2043046796078348
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.157307573656491e-16,
+   "embed": 5.9142143347892175e-15,
+   "distort": 0.3928579795914171
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 1.7278211270757547e-16,
+   "embed": 5.727712372384148e-15,
+   "distort": 1.5853148873535692
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 5.172470267467333e-16,
+   "embed": 5.733123044750459e-15,
+   "distort": 2.552106484487079
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 5.173424302254633e-16,
+   "embed": 5.743735802135785e-15,
+   "distort": 2.991464844079659
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 9,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 7.844313093132707e-16,
+   "embed": 0.1161991351591085,
+   "distort": 5.325656356214589
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 6.022790345133223e-15,
+   "distort": 1.4659825835396785
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 6.078494256138701e-15,
+   "distort": 0.9344526256975015
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.283118138076617e-16,
+   "embed": 0.4451485658524876,
+   "distort": 0.8955148231958294
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6132552016408811,
+   "distort": 0.8549906340058885
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5076551190814778,
+   "embed": 0.2802953963614643,
+   "distort": 5.082179328275842
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 0.0,
+   "embed": 6.5688952367396655e-15,
+   "distort": 2.6587368935510325
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1382764033095434e-16,
+   "embed": 5.785525994947711e-15,
+   "distort": 0.07809841285614698
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 1.1364396970804865e-16,
+   "embed": 5.598733387643798e-15,
+   "distort": 0.10366554683362841
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.1628040650877518e-16,
+   "embed": 5.784706848505597e-15,
+   "distort": 0.3178427590929644
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 1.785744970471484e-16,
+   "embed": 5.7864764863937026e-15,
+   "distort": 1.1763830637970054
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 3.356931952771441e-16,
+   "embed": 5.604451030826157e-15,
+   "distort": 1.461319319404419
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 3.1119677670717625e-16,
+   "embed": 5.7928352457024386e-15,
+   "distort": 1.7063470456317191
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 10,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.417255646179145e-16,
+   "embed": 0.11562224183583442,
+   "distort": 5.260287462237956
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 6.400813585462385e-15,
+   "distort": 1.2657647971720756
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 6.0784942561459845e-15,
+   "distort": 0.955702290486628
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.06390358957397e-16,
+   "embed": 0.44492005039329063,
+   "distort": 0.894897890342127
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.2741966083058027e-16,
+   "embed": 0.6184955477661894,
+   "distort": 0.8453415118224763
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5104432116893257,
+   "embed": 0.278968850118498,
+   "distort": 4.961582903953304
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 0.0,
+   "embed": 6.3320401561464754e-15,
+   "distort": 3.205946028957833
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.10591372140197e-16,
+   "embed": 5.9965254932227544e-15,
+   "distort": 0.08978766046382844
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 1.1086125161345879e-16,
+   "embed": 5.633403343993603e-15,
+   "distort": 0.11109445171134616
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.5,
+   "axiom": 2.0343054161704508e-16,
+   "embed": 6.0024590246709065e-15,
+   "distort": 0.47401340677097326
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 1.10591372140197e-16,
+   "embed": 5.9965254932227544e-15,
+   "distort": 0.08978766046382844
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 1.9247780754895082e-16,
+   "embed": 5.818889020569806e-15,
+   "distort": 0.7053774865033527
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.5,
+   "axiom": 4.539737806132888e-16,
+   "embed": 5.667354863895111e-15,
+   "distort": 3.869209202459878
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 11,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 4.733634102920016e-16,
+   "embed": 0.1163642823832469,
+   "distort": 5.860074913719964
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 5.787029877275598e-15,
+   "distort": 1.7263225335514025
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 6.2684472023585356e-15,
+   "distort": 1.0048987993933873
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.204894328616722e-16,
+   "embed": 0.4422454774687411,
+   "distort": 0.8949286158650459
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6213451866566253,
+   "distort": 0.8365428498074067
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5066420467224104,
+   "embed": 0.27880889633164735,
+   "distort": 5.013078803861791
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 0.0,
+   "embed": 7.19718981631578e-15,
+   "distort": 2.8250765388925565
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.121635127998035e-16,
+   "embed": 5.618477691779413e-15,
+   "distort": 0.134535587110034
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.225322289515054e-16,
+   "embed": 5.992714673052875e-15,
+   "distort": 0.21977415336997413
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.111247411355586e-16,
+   "embed": 5.9913351859590175e-15,
+   "distort": 0.42696734491088184
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 5.224983198915766e-16,
+   "embed": 5.808694357801613e-15,
+   "distort": 2.5373072184932166
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 4.0340830709476934e-16,
+   "embed": 5.999524702752095e-15,
+   "distort": 3.0794853764332717
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 4.0349686135865284e-16,
+   "embed": 5.82991778632129e-15,
+   "distort": 3.1966151864181516
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 12,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 4.837265562237657e-16,
+   "embed": 0.11566307610807026,
+   "distort": 5.891768319787684
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 5.7659748138426835e-15,
+   "distort": 1.7999832121621366
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 5.888541311097627e-15,
+   "distort": 0.9907740184955547
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.30971873781636e-16,
+   "embed": 0.4476498556257136,
+   "distort": 0.8952650403541071
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6244214795622506,
+   "distort": 0.8453415118224771
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5133149307457517,
+   "embed": 0.2810308854330996,
+   "distort": 5.048466478487659
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 0.0,
+   "embed": 6.465196091198942e-15,
+   "distort": 3.4446944888521487
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1428959947662853e-16,
+   "embed": 5.651166642256926e-15,
+   "distort": 0.1262166874233665
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.1661295852508527e-16,
+   "embed": 5.6514766619466925e-15,
+   "distort": 0.3176749559273386
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.5,
+   "axiom": 2.0241822737219982e-16,
+   "embed": 5.844156798147073e-15,
+   "distort": 0.6040145965975278
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 3.322148582064858e-16,
+   "embed": 5.652862377353195e-15,
+   "distort": 1.3520925250378317
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 3.322222327606063e-16,
+   "embed": 5.842599960240323e-15,
+   "distort": 1.3520925250378317
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.7,
+   "axiom": 3.05246388825448e-16,
+   "embed": 5.671228475073438e-15,
+   "distort": 2.1206834263112957
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 13,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 9.359901821719836e-16,
+   "embed": 0.11574738795255206,
+   "distort": 5.892491510697343
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 5.945564174771712e-15,
+   "distort": 1.5981730345305623
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 5.333926755949079e-17,
+   "embed": 6.078494255919884e-15,
+   "distort": 0.901954880450022
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.059887957193157e-16,
+   "embed": 0.4428876085715073,
+   "distort": 0.8948978903421946
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.2841960369028993e-16,
+   "embed": 0.6157167122129166,
+   "distort": 0.8456004696513779
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5070873041347339,
+   "embed": 0.280111745285913,
+   "distort": 6.459760577076572
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 2.608669591713951e-17,
+   "embed": 6.612201551464073e-15,
+   "distort": 3.1207345908543975
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1234164382940902e-16,
+   "embed": 5.6148672537676495e-15,
+   "distort": 0.06785247505500881
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 2.2188698501566638e-16,
+   "embed": 5.427567887278672e-15,
+   "distort": 0.10255753047939845
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.6,
+   "axiom": 2.156891124057321e-16,
+   "embed": 5.614385460752135e-15,
+   "distort": 0.28747850979092415
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 2.6181850112180774e-16,
+   "embed": 5.615059347734484e-15,
+   "distort": 0.45675688276819526
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 1.9607888037131829e-16,
+   "embed": 5.61495796954286e-15,
+   "distort": 0.6341423211769297
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.3,
+   "axiom": 4.0283996840659333e-16,
+   "embed": 5.627692350383961e-15,
+   "distort": 3.190253994915739
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 14,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.683227997250167e-16,
+   "embed": 0.11571415952654406,
+   "distort": 5.755718239133301
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 6.3149974107830674e-15,
+   "distort": 1.5310082092571267
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 6.078494256369683e-15,
+   "distort": 0.8962340100757304
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 1.0642446178593574e-15,
+   "embed": 0.4500857657997627,
+   "distort": 0.8947618438400843
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6155503594472609,
+   "distort": 0.8415222659092358
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.507342427264448,
+   "embed": 0.2795943283987652,
+   "distort": 4.903516006840602
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 0.0,
+   "embed": 6.5026422593113425e-15,
+   "distort": 2.6966383185711296
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1586358574564545e-16,
+   "embed": 5.833247715281648e-15,
+   "distort": 0.04540279703171857
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 1.1474164394188363e-16,
+   "embed": 5.6385511983426165e-15,
+   "distort": 0.10951796653748723
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.19514242856894e-16,
+   "embed": 5.831685225257377e-15,
+   "distort": 0.36071169566015854
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 2.0033188663332359e-16,
+   "embed": 5.833644098378402e-15,
+   "distort": 0.7396446068249477
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 4.3443833083583887e-16,
+   "embed": 5.448066135126327e-15,
+   "distort": 3.117480463459338
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 4.3474518110527947e-16,
+   "embed": 5.8498310476925066e-15,
+   "distort": 3.2594511106589183
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 15,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 6.312377159089074e-16,
+   "embed": 0.115714159526544,
+   "distort": 5.529148018397374
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 5.679410119223898e-15,
+   "distort": 1.0459288910239481
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 5.301427094933782e-17,
+   "embed": 6.26844720258681e-15,
+   "distort": 1.035673925679289
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.239151095218433e-16,
+   "embed": 0.44187311417343145,
+   "distort": 0.8955148231958512
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6154392703723018,
+   "distort": 0.854990634005926
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5061514540311141,
+   "embed": 0.2782714697316333,
+   "distort": 6.3967083017624775
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 0.0,
+   "embed": 6.450577956804484e-15,
+   "distort": 2.813931226518181
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.1420713982276764e-16,
+   "embed": 5.803360734602771e-15,
+   "distort": 0.05441277681905557
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 1.141168741990682e-16,
+   "embed": 5.80344034123689e-15,
+   "distort": 0.06973311026222773
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 0.7,
+   "axiom": 1.132248883530896e-16,
+   "embed": 5.803957354920529e-15,
+   "distort": 0.11937985804402367
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 0.0,
+   "axiom": 2.0809684397210529e-16,
+   "embed": 5.998761057657628e-15,
+   "distort": 0.7320508314455457
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 0.6666666666666666,
+   "axiom": 3.398119991946439e-16,
+   "embed": 6.001948066312379e-15,
+   "distort": 1.42913693276581
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 0.8,
+   "axiom": 3.3706145629772903e-16,
+   "embed": 5.821766179772008e-15,
+   "distort": 1.9024081475090313
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 16,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 7.208168456203025e-16,
+   "embed": 0.11612445705167992,
+   "distort": 6.832335761574084
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 6.382742208844354e-15,
+   "distort": 1.8014749428419476
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 6.915463139513758e-18,
+   "embed": 6.268447201644109e-15,
+   "distort": 0.9306604605544124
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.214756241250252e-16,
+   "embed": 0.4451313510240001,
+   "distort": 0.8948978903422965
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.304963441205952e-16,
+   "embed": 0.6133689429521637,
+   "distort": 0.8453415118225276
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5016706681759502,
+   "embed": 0.27857140408778064,
+   "distort": 6.52344810632511
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 1.7836704600710206e-17,
+   "embed": 6.7163241419235256e-15,
+   "distort": 3.0123127505312084
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.137102021479777e-16,
+   "embed": 5.726943895991887e-15,
+   "distort": 0.11723324071518501
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 1.1225799757253489e-16,
+   "embed": 5.910958911833363e-15,
+   "distort": 0.15616474526316032
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.1392963189035089e-16,
+   "embed": 5.722115324268496e-15,
+   "distort": 0.38358612152557015
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 2.8859117248716623e-16,
+   "embed": 5.728620213131059e-15,
+   "distort": 2.1721877962925604
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 3.3200609006087857e-16,
+   "embed": 5.55337690543743e-15,
+   "distort": 3.797155101019014
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 3.321820220766949e-16,
+   "embed": 5.931229363835e-15,
+   "distort": 3.889430607640743
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 17,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 7.04121477030645e-16,
+   "embed": 0.11751250252293059,
+   "distort": 6.937137257190306
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 6.132368688465953e-15,
+   "distort": 1.5096504707204352
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 0.0,
+   "embed": 5.8885413111307065e-15,
+   "distort": 1.002363744903282
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.155132339082094e-16,
+   "embed": 0.4426280936319289,
+   "distort": 0.8948978903421237
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6170027438007664,
+   "distort": 0.84534151182245
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5105498278976601,
+   "embed": 0.2791900350289023,
+   "distort": 4.578556094183213
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 0.0,
+   "embed": 6.490095022036319e-15,
+   "distort": 2.5013778145384697
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.0826602272348807e-16,
+   "embed": 6.048540890911873e-15,
+   "distort": 0.17161813633164763
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 1.0763784655418844e-16,
+   "embed": 5.865530515745376e-15,
+   "distort": 0.24228433054943688
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.1198475869108964e-16,
+   "embed": 5.868386125558551e-15,
+   "distort": 0.3643517794340343
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 2.149398346848571e-16,
+   "embed": 5.865286507404367e-15,
+   "distort": 0.21782173552554507
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 2.1612467569197771e-16,
+   "embed": 5.4994131818104715e-15,
+   "distort": 0.30232306428032174
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 3.0876668550625616e-16,
+   "embed": 5.738991396346616e-15,
+   "distort": 2.788192912826669
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 18,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 6.848643916309377e-16,
+   "embed": 0.1156452075654914,
+   "distort": 5.763952503276641
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "weighted Euclidean",
+   "axiom": 0.0,
+   "embed": 6.172484917906028e-15,
+   "distort": 2.1404332175288237
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "Mahalanobis",
+   "axiom": 5.3878122273864694e-17,
+   "embed": 6.268447201572241e-15,
+   "distort": 0.886838455658336
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "Manhattan",
+   "axiom": 9.828794692125665e-16,
+   "embed": 0.45314878486033555,
+   "distort": 0.8954442983816832
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "Chebyshev",
+   "axiom": 3.3104043271539627e-16,
+   "embed": 0.6250645432263807,
+   "distort": 0.8476815556514654
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "cosine",
+   "axiom": 0.5061337704677635,
+   "embed": 0.28130253090576346,
+   "distort": 6.576789450684273
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "benign",
+   "variant": "NCA",
+   "axiom": 5.064462350744239e-17,
+   "embed": 6.419955396430295e-15,
+   "distort": 2.4418888223535617
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g1",
+   "success": 1.0,
+   "axiom": 1.149833472046769e-16,
+   "embed": 5.82485009720741e-15,
+   "distort": 0.045981110896820054
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g3",
+   "success": 1.0,
+   "axiom": 1.4222493927375973e-16,
+   "embed": 6.0188457545435055e-15,
+   "distort": 0.09778741958684502
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-stealthy-g10",
+   "success": 1.0,
+   "axiom": 2.0919971142566434e-16,
+   "embed": 5.823261285319366e-15,
+   "distort": 0.49103417749617423
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-random-g1",
+   "success": 1.0,
+   "axiom": 1.133830448815858e-16,
+   "embed": 5.824853354709754e-15,
+   "distort": 0.06552914823536451
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-random-g3",
+   "success": 1.0,
+   "axiom": 1.9812151294714017e-16,
+   "embed": 6.0192229367793155e-15,
+   "distort": 0.7673099926220004
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "relocation-random-g10",
+   "success": 1.0,
+   "axiom": 4.003821892671121e-16,
+   "embed": 6.029460208824414e-15,
+   "distort": 3.027494493553687
+  },
+  {
+   "dataset": "German Credit",
+   "trial": 19,
+   "kind": "attack",
+   "variant": "two-level (random labels)",
+   "success": 1.0,
+   "axiom": 8.6437213420463345e-16,
+   "embed": 0.11627906976744147,
+   "distort": 5.837647957763418
+  }
+ ],
+ "auc": {
+  "axiom": {
+   "relocation-random-g1": 0.4166666666666667,
+   "relocation-random-g10": 0.4166666666666667,
+   "relocation-random-g3": 0.4166666666666667,
+   "relocation-stealthy-g1": 0.4166666666666667,
+   "relocation-stealthy-g10": 0.4166666666666667,
+   "relocation-stealthy-g3": 0.4166666666666667,
+   "two-level (random labels)": 0.4166666666666667
+  },
+  "embed": {
+   "relocation-random-g1": 0.25,
+   "relocation-random-g10": 0.25,
+   "relocation-random-g3": 0.25,
+   "relocation-stealthy-g1": 0.25,
+   "relocation-stealthy-g10": 0.25,
+   "relocation-stealthy-g3": 0.25,
+   "two-level (random labels)": 0.5
+  },
+  "distort": {
+   "relocation-random-g1": 0.5557127882599581,
+   "relocation-random-g10": 0.7927148846960167,
+   "relocation-random-g3": 0.7098008385744234,
+   "relocation-stealthy-g1": 0.027777777777777773,
+   "relocation-stealthy-g10": 0.2918763102725367,
+   "relocation-stealthy-g3": 0.12154088050314465,
+   "two-level (random labels)": 0.872175925925926
+  }
+ },
+ "tolerance": 1e-09,
+ "success": {
+  "relocation-random-g1": 0.9811320754716981,
+  "relocation-random-g10": 0.6811320754716982,
+  "relocation-random-g3": 0.8993710691823898,
+  "relocation-stealthy-g1": 1.0,
+  "relocation-stealthy-g10": 0.8867924528301887,
+  "relocation-stealthy-g3": 0.9937106918238994,
+  "two-level (random labels)": 1.0
+ }
+}
